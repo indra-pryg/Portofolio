@@ -1,6 +1,5 @@
 # PORTOFOLIO
 
-# SOURCE: ![](https://github.com/indra-pryg/Portofolio/tree/main)
 
 ## [1. London Housing: Poject Overview](https://github.com/indra-pryg/Data-Science/tree/main/London%20Housing)
 London Housing is a dataset to analyze average sales, the number of criminals in the area and (date, month, year). This data set includes area, average_price, code, date, house_sold, no_of_crimes and year.
@@ -27,3 +26,6 @@ Separating plane described above was obtained using Multisurface Method-Tree (MS
 The actual linear program used to obtain the separating plane in the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
 
 ![](https://github.com/indra-pryg/Portofolio/blob/main/Breast%20Cancer%20Wisconsin%20(Diagnostic).png)
+
+
+# [SOURCE](https://github.com/indra-pryg/Portofolio/tree/main)
