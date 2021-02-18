@@ -28,4 +28,4 @@ The actual linear program used to obtain the separating plane in the 3-dimension
 ![](https://github.com/indra-pryg/Portofolio/blob/main/Breast%20Cancer%20Wisconsin%20(Diagnostic).png)
 
 
-# [SOURCE](https://github.com/indra-pryg/Portofolio/tree/main)
+# [SOURCE](https://github.com/indra-pryg/Data-Science)
